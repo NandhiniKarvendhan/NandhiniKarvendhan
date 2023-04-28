@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋  I'm Nandhini K
+
+- 🔭 I’m currently working on Full-Stack Restaurant Application.
+- 🌱 I just finished "Post Graduate Certification in Full Stack Development" course using the MERN Stack conducted by the MIT xPRO institute.
 
 <!--
 **NandhiniKarvendhan/NandhiniKarvendhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
