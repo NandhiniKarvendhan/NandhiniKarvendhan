@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Nandhini K
 
-- 🔭 I’m currently working on Full-Stack Restaurant Application.
+- 🔭 I’m currently working on Full-Stack Restaurant Application using the MERN Stack.
 - 🌱 I just finished "Post Graduate Certification in Full Stack Development" course using the MERN Stack conducted by the MIT xPRO institute.
 
 <!--
